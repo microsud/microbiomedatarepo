@@ -3,8 +3,7 @@ Access to publicly available microbiome data sets
 
 ## List of available datasets
 Data are used from Duvallet et al 2017 https://www.nature.com/articles/s41467-017-01973-8.pdf?origin=ppub.  
-Data for practice, also an example for importing mothur files from Baxtrer et al 2016. The source file for these data is the microbiomedatarepo https://github.com/microsud/microbiomedatarepo.  
-
+Data for practice, also an example for importing mothur files from Baxtrer et al 2016.  
 
 1] Schubert et al., CDI 336 samples [cdi_schubert.rds]  
 2] Youngster et al., CDI 23 samples [cdi_youngster.rds]  
